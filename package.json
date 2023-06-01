@@ -1,0 +1,22 @@
+{
+  "name": "qacademy-exam",
+  "version": "1.0.0",
+  "description": "initial file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnesAlesevic/QAcademy-Exam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnesAlesevic/QAcademy-Exam/issues"
+  },
+  "homepage": "https://github.com/EnesAlesevic/QAcademy-Exam#readme",
+  "dependencies": {
+    "cypress": "^12.13.0"
+  }
+}

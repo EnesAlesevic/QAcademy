@@ -1,0 +1,19 @@
+ZAVRSNI ISPIT ZA QACADEMY
+
+ZADATAK 1
+
+Kreirati 2 Test Case za jednu od slijedecih web stranica:
+
+ - http://automationpractice.com/index.php
+ - https://demo.nopcommerce.com/
+ - https://www.saucedemo.com/
+ - https://parabank.parasoft.com/parabank/index.htm
+ - https://demo-opencart.com/
+ - https://ecommerce-playground.lambdatest.io/
+
+Pravilo:
+ - Test case za Login, Registraciju i posjetu web stranice ne racunamo u zbir ukupnih Test Caseva
+
+ZADATAK 2
+
+U sklopu ovog repozitorija napisati Cypress skripte koje ce automatizirati Test Caseve napisane u prvom zadatku.
