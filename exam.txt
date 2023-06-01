@@ -11,8 +11,9 @@ Kreirati 2 Test Case za jednu od slijedecih web stranica:
  - https://demo-opencart.com/
  - https://ecommerce-playground.lambdatest.io/
 
-Pravilo:
+Napomene:
  - Test case za Login, Registraciju i posjetu web stranice ne racunamo u zbir ukupnih Test Caseva
+ - Primjer Test Caseva mozete naci na ovom linku: https://docs.google.com/spreadsheets/d/1usRTseWuJgcXJsXf06BabO1wDE9ST6xetyaEON4n9no/edit?usp=sharing
 
 ZADATAK 2
 
