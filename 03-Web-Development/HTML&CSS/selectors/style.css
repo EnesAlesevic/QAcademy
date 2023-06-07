@@ -1,0 +1,49 @@
+/* Font changing */
+h1 {
+    font-family: Arial, sans-serif;
+    color:#000;
+}
+
+/* Text color changing */
+p {
+    color: pink;
+}
+
+/* Background color changing */
+body {
+    background-color: gray;
+}
+
+/* Adding borders */
+img {
+    border: 5px solid #000;
+}
+
+/* ID selector */
+#id001{
+    font-size:30px;
+}
+
+/* class selector */
+.class001{
+    color:green; 
+}
+
+.upperCase{
+    text-transform: uppercase;
+}
+
+/* Border padding transition animation */
+a {
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+/* :hover pseudoselector on a button */
+a:hover {
+    background-color: #555;
+}
