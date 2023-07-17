@@ -5,6 +5,7 @@ class homePage {
             cy.visit(data.url)
         })
     }
+    
 }
 
 module.exports = new homePage();
