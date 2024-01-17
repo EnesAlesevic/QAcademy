@@ -6,6 +6,10 @@ class homePage {
         })
     }
     
+    electronicsCategoryBtn(){
+        return cy.get(':nth-child(1) > .category-ite > .picture > a > img')
+    }
+
 }
 
 module.exports = new homePage();
